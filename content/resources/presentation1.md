@@ -13,7 +13,12 @@ description: 'Example of student work: final project presentation by David Blau,
   the boxing ring are drawn using sprites read from ROM.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/6995e5771dc2ce688a17655bad944dce_presentation1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: presentation1.pdf
+type: OCWFile
 uid: 6995e577-1dc2-ce68-8a17-655bad944dce
 ---

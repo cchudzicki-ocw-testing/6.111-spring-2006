@@ -5,7 +5,12 @@ description: 'Example of student work: project code for a final project by Chris
   a 2-input polygraph using the Xilinx Virtex2 FPGA.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/f8c2b869d3793abd1b627cf632280915_appendix9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix9.pdf
+type: OCWFile
 uid: f8c2b869-d379-3abd-1b62-7cf632280915
 ---

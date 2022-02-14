@@ -10,7 +10,12 @@ description: 'Example of student work: final project presentation by Mariela Buc
   and vertical velocity display.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/575327f4b3160ac04ef9744d4d36ed8c_presentation8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: presentation8.pdf
+type: OCWFile
 uid: 575327f4-b316-0ac0-4ef9-744d4d36ed8c
 ---

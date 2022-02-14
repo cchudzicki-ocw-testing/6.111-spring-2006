@@ -5,7 +5,12 @@ description: 'Example of student work: final project report by Annamaria Ayuso a
   of Dance Dance Revolution (DDR).'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/952c16086389a7f6f9ebd5481e03959a_project14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project14.pdf
+type: OCWFile
 uid: 952c1608-6389-a7f6-f9eb-d5481e03959a
 ---

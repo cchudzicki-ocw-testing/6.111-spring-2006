@@ -5,7 +5,12 @@ description: 'Example of student work: final project presentation by Xinpeng Hua
   pointer mouse.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/dfdfa01b0351957e823c6c0cda3df46a_presentation2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: presentation2.pdf
+type: OCWFile
 uid: dfdfa01b-0351-957e-823c-6c0cda3df46a
 ---

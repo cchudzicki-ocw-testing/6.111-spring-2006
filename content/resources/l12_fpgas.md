@@ -4,7 +4,12 @@ description: Lecture notes on reconfigurable logic architecture and the history 
   computational fabrics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/98b5511632abfbaa4af833cef72e7416_l12_fpgas.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l12_fpgas.pdf
+type: OCWFile
 uid: 98b55116-32ab-fbaa-4af8-33cef72e7416
 ---

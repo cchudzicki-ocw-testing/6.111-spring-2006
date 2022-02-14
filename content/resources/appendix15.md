@@ -6,7 +6,12 @@ description: 'Example of student work: project code for a final project by Matth
   of the algorithm in hardware.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/ef2b9aa19e051d68b9ac04dc90e2f590_appendix15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix15.pdf
+type: OCWFile
 uid: ef2b9aa1-9e05-1d68-b9ac-04dc90e2f590
 ---

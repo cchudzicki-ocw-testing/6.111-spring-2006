@@ -6,7 +6,12 @@ description: 'Example of student work: final project presentation by Matthew Doh
   in hardware.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/689141b23929f6ca86dbebc290a23b39_presentation15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: presentation15.pdf
+type: OCWFile
 uid: 689141b2-3929-f6ca-86db-ebc290a23b39
 ---

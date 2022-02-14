@@ -5,7 +5,12 @@ description: 'Example of student work: final project presentation by Annamaria A
   version of Dance Dance Revolution (DDR).'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/b1a40d085cc41699bb4c96a9813e60c4_presentation14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: presentation14.pdf
+type: OCWFile
 uid: b1a40d08-5cc4-1699-bb4c-96a9813e60c4
 ---

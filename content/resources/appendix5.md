@@ -9,7 +9,12 @@ description: 'Example of student work: project code for a final project by Igor 
   on-chip ROM, during gameplay a model of the current board is generated dynamically.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/4f5a5900f1dc7a6d903ddf2f0f48f725_appendix5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix5.pdf
+type: OCWFile
 uid: 4f5a5900-f1dc-7a6d-903d-df2f0f48f725
 ---

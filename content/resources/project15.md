@@ -6,7 +6,12 @@ description: 'Example of student work: final project report by Matthew Doherty. 
   in hardware.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/3eb763d1ab6c39283a41ea20661e9634_project15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project15.pdf
+type: OCWFile
 uid: 3eb763d1-ab6c-3928-3a41-ea20661e9634
 ---

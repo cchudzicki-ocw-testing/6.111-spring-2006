@@ -6,7 +6,12 @@ description: Laboratory assignment to build and debug a version of the classic v
   VGA, and will understand how to construct complex systems.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/e9430e6f483bdadfa77b4f8c3cbf63b8_lab4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab4.pdf
+type: OCWFile
 uid: e9430e6f-483b-dadf-a77b-4f8c3cbf63b8
 ---

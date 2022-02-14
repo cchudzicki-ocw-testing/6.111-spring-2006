@@ -7,7 +7,12 @@ description: Laboratory assignment to implement a traffic light controller that 
   wiring, and debugging your design.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/696b87fcddfdd94e8e34cf17103d301b_lab2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab2.pdf
+type: OCWFile
 uid: 696b87fc-ddfd-d94e-8e34-cf17103d301b
 ---

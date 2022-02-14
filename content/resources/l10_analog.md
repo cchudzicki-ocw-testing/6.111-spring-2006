@@ -4,7 +4,12 @@ description: Lecture notes on analog building blocks, operational amplifiers, di
   to analog conversion, and analog to digital conversion.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/bda9efe8db21622afb12e8a2af6cd994_l10_analog.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l10_analog.pdf
+type: OCWFile
 uid: bda9efe8-db21-622a-fb12-e8a2af6cd994
 ---

@@ -13,7 +13,12 @@ description: 'Example of student work: final project report by Masood Qazi and Z
   through headphones.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/faa5a3d0fdaee56c636a2e76bae69103_project7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project7.pdf
+type: OCWFile
 uid: faa5a3d0-fdae-e56c-636a-2e76bae69103
 ---

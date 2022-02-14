@@ -4,7 +4,12 @@ description: Solutions to a problem set on Boolean algebra, Karnaugh maps, DeMor
   theorem, Transistor/Gate level synthesis, and setup and hold times for D flip-flop.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/af8cb25154a385bc04e5b4bd119e474a_pset1_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset1_soln.pdf
+type: OCWFile
 uid: af8cb251-54a3-85bc-04e5-b4bd119e474a
 ---

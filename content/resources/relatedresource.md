@@ -3,7 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/ebcc5f1ab76a0f6f0e69cb21de1b0952_relatedresource.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: relatedresource.pdf
+type: OCWFile
 uid: ebcc5f1a-b76a-0f6f-0e69-cb21de1b0952
 ---

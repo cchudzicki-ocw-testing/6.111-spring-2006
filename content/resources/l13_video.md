@@ -3,7 +3,12 @@ content_type: resource
 description: Lecture notes on flat panel display devices and display drivers.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/96464ab2374c6fde8d53470bf4c021c2_l13_video.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l13_video.pdf
+type: OCWFile
 uid: 96464ab2-374c-6fde-8d53-470bf4c021c2
 ---

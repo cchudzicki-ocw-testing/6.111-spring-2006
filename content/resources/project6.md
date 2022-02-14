@@ -10,7 +10,12 @@ description: 'Example of student work: final project report by Leon Fay, Miranda
   a two-dimensional map of the environment to be drawn.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/2c510282caa41e149acdb7d1a194fe74_project6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project6.pdf
+type: OCWFile
 uid: 2c510282-caa4-1e14-9acd-b7d1a194fe74
 ---

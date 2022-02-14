@@ -11,7 +11,12 @@ description: 'Example of student work: final project report by Helen Liang, Wend
   stepped on; and audio output, which plays the activated note.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/4cb55b08bb6542ded24152c84e7b13b4_project12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project12.pdf
+type: OCWFile
 uid: 4cb55b08-bb65-42de-d241-52c84e7b13b4
 ---

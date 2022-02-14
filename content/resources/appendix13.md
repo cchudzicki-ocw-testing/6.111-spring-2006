@@ -5,7 +5,12 @@ description: 'Example of student work: project code for a final project by Camer
   of the classic arcade game Tetris.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/340b4daaa8ef44306ffaa09e576bc9f5_appendix13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix13.pdf
+type: OCWFile
 uid: 340b4daa-a8ef-4430-6ffa-a09e576bc9f5
 ---

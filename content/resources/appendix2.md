@@ -5,7 +5,12 @@ description: 'Example of student work: project code for a final project by Xinpe
   a laser pointer mouse.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/691ced92ab9a4851a3a022704cfb66df_appendix2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix2.pdf
+type: OCWFile
 uid: 691ced92-ab9a-4851-a3a0-22704cfb66df
 ---

@@ -5,7 +5,12 @@ description: This topic contains asynchronous inputs in sequential systems, hand
   The 6.111 Vending Machine, A Moore Vender and State Reduction.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/bdcc28ad26f1a3ef9ec0113e828170a4_lec6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec6.pdf
+type: OCWFile
 uid: bdcc28ad-26f1-a3ef-9ec0-113e828170a4
 ---
