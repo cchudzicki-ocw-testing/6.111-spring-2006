@@ -5,6 +5,7 @@ description: Lecture handout with guidelines on CI-M considerations, report styl
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/25dcbcea74ea2b2b7046acf58d3307ae_reportgd.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
