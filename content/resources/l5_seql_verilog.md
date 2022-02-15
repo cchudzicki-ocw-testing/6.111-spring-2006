@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l5_seql_verilog.pdf
-type: OCWFile
 uid: 09793dcc-124f-0226-e93e-b01591762630
 ---

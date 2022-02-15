@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l6_fsm.pdf
-type: OCWFile
 uid: 42a54faa-b45f-e615-9173-0e7846643cc9
 ---

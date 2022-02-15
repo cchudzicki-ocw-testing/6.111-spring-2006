@@ -9,6 +9,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: cim.pdf
-type: OCWFile
 uid: 27202dd8-5824-273a-6314-8e14374fba9d
 ---

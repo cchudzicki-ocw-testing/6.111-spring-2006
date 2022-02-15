@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l3_combi_veri.pdf
-type: OCWFile
 uid: c980dc16-3d6d-7e97-39a7-6e002c6ce861
 ---

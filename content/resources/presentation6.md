@@ -16,6 +16,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: presentation6.pdf
-type: OCWFile
 uid: 304c6ca4-b90e-92a4-e63f-595b073e7c64
 ---

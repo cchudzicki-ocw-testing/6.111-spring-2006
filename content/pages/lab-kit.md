@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Lab Kit
-type: CourseSection
 uid: e00fa618-e488-14d9-837d-056e10a2a140
 ---
 

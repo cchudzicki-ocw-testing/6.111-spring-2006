@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l15_vlsi_print.pdf
-type: OCWFile
 uid: 175ea2da-2a74-523a-f3f3-837a5c39b13c
 ---

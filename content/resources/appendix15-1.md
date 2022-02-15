@@ -8,6 +8,5 @@ parent_title: Group 15
 parent_type: CourseSection
 resourcetype: Document
 title: appendix15.pdf
-type: OCWFile
 uid: b57b3eb0-2f36-5bec-f4c8-a57882c12705
 ---

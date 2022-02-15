@@ -8,6 +8,5 @@ parent_title: Group 2
 parent_type: CourseSection
 resourcetype: Document
 title: appendix2.pdf
-type: OCWFile
 uid: 3bf2ded0-ff07-cd27-525f-6ff2f291e8da
 ---

@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: relatedresource.pdf
-type: OCWFile
 uid: ebcc5f1a-b76a-0f6f-0e69-cb21de1b0952
 ---

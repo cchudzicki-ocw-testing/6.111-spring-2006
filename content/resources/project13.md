@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: project13.pdf
-type: OCWFile
 uid: e1cb3a38-820b-773d-6062-42f6e541f7e0
 ---

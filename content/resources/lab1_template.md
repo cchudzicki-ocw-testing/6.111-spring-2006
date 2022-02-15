@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab1_template.pdf
-type: OCWFile
 uid: ebed3c7e-2f0a-31b1-4ed5-6d0cd9a64400
 ---

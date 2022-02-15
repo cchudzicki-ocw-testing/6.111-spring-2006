@@ -8,6 +8,5 @@ parent_title: Group 14
 parent_type: CourseSection
 resourcetype: Document
 title: appendix14.pdf
-type: OCWFile
 uid: 19bdf18d-844a-a744-beae-102ca1b5947b
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l10_analog.pdf
-type: OCWFile
 uid: bda9efe8-db21-622a-fb12-e8a2af6cd994
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: appendix14.pdf
-type: OCWFile
 uid: 6e8c2825-ef63-9f82-f89f-be864d955c83
 ---

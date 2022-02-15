@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset1_soln.pdf
-type: OCWFile
 uid: af8cb251-54a3-85bc-04e5-b4bd119e474a
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: project2.pdf
-type: OCWFile
 uid: c9eaa33d-d7f9-edc2-7380-20a06f0d9a46
 ---

@@ -19,6 +19,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: appendix1.pdf
-type: OCWFile
 uid: 52c12e2e-fbc7-993d-0ad4-59d216caa4d1
 ---

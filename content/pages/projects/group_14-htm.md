@@ -6,7 +6,6 @@ parent_title: Projects
 parent_type: CourseSection
 parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 title: Group 12
-type: CourseSection
 uid: 07d2680f-44db-7ed7-91a5-3e42659bf896
 ---
 

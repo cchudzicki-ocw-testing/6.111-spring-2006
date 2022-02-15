@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l11_maj_min_fsm.pdf
-type: OCWFile
 uid: 068c445a-4f08-f5fb-9a81-34062b209a2a
 ---

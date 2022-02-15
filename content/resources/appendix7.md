@@ -19,6 +19,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: appendix7.pdf
-type: OCWFile
 uid: 5b753503-50cd-7c41-03cd-2bc6beaf243f
 ---

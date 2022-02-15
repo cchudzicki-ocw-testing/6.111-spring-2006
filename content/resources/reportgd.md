@@ -9,6 +9,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: reportgd.pdf
-type: OCWFile
 uid: 25dcbcea-74ea-2b2b-7046-acf58d3307ae
 ---

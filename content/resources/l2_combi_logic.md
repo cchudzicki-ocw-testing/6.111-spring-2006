@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l2_combi_logic.pdf
-type: OCWFile
 uid: 340fab3b-d545-02c9-6ef1-77100c99b0f8
 ---

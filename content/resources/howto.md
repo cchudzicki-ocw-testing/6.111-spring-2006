@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: howto.pdf
-type: OCWFile
 uid: b2dd9d79-68e2-9ac1-4ba5-83d56f1faa2b
 ---

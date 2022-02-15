@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: presentation13.pdf
-type: OCWFile
 uid: d58c108e-98a6-a77e-cace-2178c786dec0
 ---
