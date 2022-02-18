@@ -24,28 +24,28 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/pset1))
+Problem set 1 ({{< resource_link 5314584f-1adf-5891-e592-32526b950086 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset1_soln))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/pset2))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset2_soln))
+({{< resource_link af8cb251-54a3-85bc-04e5-b4bd119e474a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+Problem set 2 ({{< resource_link bf426d03-7c7f-eadd-c3b7-8db09f682fed "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset3_soln))
+({{< resource_link 126b2863-4679-b148-f32e-cfba4249e066 "PDF" >}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ({{< resource_link ab55ec81-192a-2b74-87bb-78b2c883b58a "PDF" >}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{< resource_link f2573e9b-f1f7-7830-f676-4d229fedc714 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -38,7 +38,7 @@ Palnitkar, Samir. _Verilog® HDL_. 2nd ed. Upper Saddle River, NJ: Prentice Hall
 Component Pinouts/Data
 ----------------------
 
-Pinouts for most components are easily available through the Web (e.g., do a Google™ search to locate the appropriate data sheet). Relevant sheets needed for the labs are available in [labs]({{< baseurl >}}/pages/labs) section.
+Pinouts for most components are easily available through the Web (e.g., do a Google™ search to locate the appropriate data sheet). Relevant sheets needed for the labs are available in {{< resource_link b07a1209-db13-f696-9f99-98a17dc3f627 "labs" >}} section.
 
 Conduct of the Subject
 ----------------------
@@ -65,7 +65,7 @@ The most important assignment is the Term Project, about which you will receive 
 
 ### Grading Policy
 
-The Lab 1 checkoff sheet is to be initialed by a TA or LA and included with your report. Note that the checkoff sheet is **not** the report. Lab 1 report template is available in the [labs]({{< baseurl >}}/pages/labs) section.
+The Lab 1 checkoff sheet is to be initialed by a TA or LA and included with your report. Note that the checkoff sheet is **not** the report. Lab 1 report template is available in the {{< resource_link b07a1209-db13-f696-9f99-98a17dc3f627 "labs" >}} section.
 
 Lab 2 report will be used for part of the CIM requirement. More details will be provided in lecture.
 

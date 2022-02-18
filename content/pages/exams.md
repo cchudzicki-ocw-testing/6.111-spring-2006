@@ -24,7 +24,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz Spring 2006 ([PDF]({{< baseurl >}}/resources/quiz_06))
+Quiz Spring 2006 ({{< resource_link 7628894e-09a0-7b49-163c-d07d90a0ae45 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -45,7 +45,7 @@ Problem 5: Verilog®
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz Spring 2004 ([PDF]({{< baseurl >}}/resources/quiz))
+Quiz Spring 2004 ({{< resource_link 57addb5f-487d-d650-5bde-350f20a8e2e3 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -66,7 +66,7 @@ Problem 5: Verilog®
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 1 Spring 2003 ([PDF]({{< baseurl >}}/resources/q1))
+Quiz 1 Spring 2003 ({{< resource_link 5dfa7a42-c84c-6f6f-10d2-8a4583c7d3dc "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -83,7 +83,7 @@ Problem 3: Timing and memory
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2 Spring 2003 ([PDF]({{< baseurl >}}/resources/q2))
+Quiz 2 Spring 2003 ({{< resource_link 935e1a13-38b3-6ce7-873c-154766838bd1 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
