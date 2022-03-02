@@ -32,9 +32,9 @@ SOURCE FILES
 {{< tdopen >}}
 
 
-Lab 1: Introduction to digital design ({{< resource_link aeb30842-8745-42bc-baa5-64c15e4a3b32 "PDF" >}})
+Lab 1: Introduction to digital design ({{% resource_link aeb30842-8745-42bc-baa5-64c15e4a3b32 "PDF" %}})
 
-Lab1: Report template ({{< resource_link ebed3c7e-2f0a-31b1-4ed5-6d0cd9a64400 "PDF" >}})
+Lab1: Report template ({{% resource_link ebed3c7e-2f0a-31b1-4ed5-6d0cd9a64400 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -66,7 +66,7 @@ HCT family specification
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 2: FSM design - Traffic light controller ({{< resource_link 696b87fc-ddfd-d94e-8e34-cf17103d301b "PDF" >}})
+Lab 2: FSM design - Traffic light controller ({{% resource_link 696b87fc-ddfd-d94e-8e34-cf17103d301b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -84,7 +84,7 @@ Lab 2: FSM design - Traffic light controller ({{< resource_link 696b87fc-ddfd-d9
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 3: FSM design - Memory tester ({{< resource_link 94b491a7-f35e-5492-0f7a-9dc44e3a39af "PDF" >}})
+Lab 3: FSM design - Memory tester ({{% resource_link 94b491a7-f35e-5492-0f7a-9dc44e3a39af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Motorola](http://www.motorola.com/)  
@@ -103,7 +103,7 @@ MCM6264
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 4: Complex FSM - Pong video game ({{< resource_link e9430e6f-483b-dadf-a77b-4f8c3cbf63b8 "PDF" >}})
+Lab 4: Complex FSM - Pong video game ({{% resource_link e9430e6f-483b-dadf-a77b-4f8c3cbf63b8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Analog Devices](http://www.analog.com/)  
