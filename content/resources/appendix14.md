@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix14.pdf
 uid: 6e8c2825-ef63-9f82-f89f-be864d955c83
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

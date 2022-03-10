@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec10.pdf
 uid: e2e1c8f0-e41b-1c27-0404-75d7159e97ab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

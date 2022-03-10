@@ -21,4 +21,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation1.pdf
 uid: 6995e577-1dc2-ce68-8a17-655bad944dce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

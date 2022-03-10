@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l1_overview.pdf
 uid: 317da3ee-f461-2e54-3559-758c871d25d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

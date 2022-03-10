@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec7.pdf
 uid: 499fae5e-27b5-8a4b-2860-5923aebe210e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

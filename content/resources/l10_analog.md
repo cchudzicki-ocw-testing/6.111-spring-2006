@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l10_analog.pdf
 uid: bda9efe8-db21-622a-fb12-e8a2af6cd994
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix10.pdf
 uid: 0d279166-6b8f-b4b9-5300-8a3eb2b8b4ad
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

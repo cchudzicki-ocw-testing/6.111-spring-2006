@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Student projects involve teams of one to three students. Each team chooses its own project, though topic suggestions and guidance for scope are available from the course staff. A wide variety of projects are undertaken each semester. A selection of presentations, final reports, and demonstration videos are included in this section. The project presentations occurred early in the semester and capture the projects in the design phase. The reports and videos show the final results of the projects. The student work in this section is courtesy of the students listed and used with permission.

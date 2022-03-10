@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix15.pdf
 uid: b57b3eb0-2f36-5bec-f4c8-a57882c12705
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

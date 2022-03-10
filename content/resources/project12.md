@@ -19,4 +19,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: project12.pdf
 uid: 4cb55b08-bb65-42de-d241-52c84e7b13b4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

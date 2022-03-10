@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l7_memory.pdf
 uid: b148883f-2540-cfb8-ae02-5c89891e5afc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

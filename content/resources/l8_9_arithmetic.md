@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l8_9_arithmetic.pdf
 uid: e429de99-234a-3519-553b-fc45ee151b7f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

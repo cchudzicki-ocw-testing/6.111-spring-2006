@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l2_combi_logic.pdf
 uid: 340fab3b-d545-02c9-6ef1-77100c99b0f8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

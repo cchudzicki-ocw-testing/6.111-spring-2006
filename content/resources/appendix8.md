@@ -18,4 +18,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix8.pdf
 uid: 8e8c9515-7762-b415-8757-0ded8c345049
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

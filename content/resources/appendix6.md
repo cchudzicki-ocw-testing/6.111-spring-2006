@@ -18,4 +18,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix6.pdf
 uid: b90c12fe-a090-164d-6c88-2e2bb4e9c368
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

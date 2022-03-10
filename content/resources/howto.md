@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: howto.pdf
 uid: b2dd9d79-68e2-9ac1-4ba5-83d56f1faa2b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

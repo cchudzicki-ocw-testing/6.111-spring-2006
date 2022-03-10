@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: reportgd.pdf
 uid: 25dcbcea-74ea-2b2b-7046-acf58d3307ae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

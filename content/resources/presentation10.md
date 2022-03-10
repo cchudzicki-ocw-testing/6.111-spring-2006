@@ -20,4 +20,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation10.pdf
 uid: 469c23ff-4c23-0967-99cb-f005eb908305
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

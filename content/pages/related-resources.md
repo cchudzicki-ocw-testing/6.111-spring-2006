@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 8f162ef2-6bdb-ae47-4a18-461ce76ffe83
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 CI-M Related Resources

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l13_video.pdf
 uid: 96464ab2-374c-6fde-8d53-470bf4c021c2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -18,4 +18,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation6.pdf
 uid: 304c6ca4-b90e-92a4-e63f-595b073e7c64
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

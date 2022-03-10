@@ -17,4 +17,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation5.pdf
 uid: 61f8548e-486f-7eca-b897-1f962d9e63d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

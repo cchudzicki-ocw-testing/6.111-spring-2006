@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix9.pdf
 uid: f8c2b869-d379-3abd-1b62-7cf632280915
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

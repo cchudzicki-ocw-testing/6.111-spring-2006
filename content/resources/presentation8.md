@@ -18,4 +18,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation8.pdf
 uid: 575327f4-b316-0ac0-4ef9-744d4d36ed8c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

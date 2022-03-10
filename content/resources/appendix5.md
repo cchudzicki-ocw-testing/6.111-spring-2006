@@ -17,4 +17,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix5.pdf
 uid: 4f5a5900-f1dc-7a6d-903d-df2f0f48f725
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

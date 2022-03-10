@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l16_print.pdf
 uid: 38df2a59-4fdb-6d0a-9599-0dcb1229957d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

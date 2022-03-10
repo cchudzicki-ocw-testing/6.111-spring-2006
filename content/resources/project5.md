@@ -17,4 +17,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: project5.pdf
 uid: 9837d1a7-f89f-fd4f-db83-d34d63e245f8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

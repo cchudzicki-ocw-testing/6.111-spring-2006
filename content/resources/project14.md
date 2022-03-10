@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: project14.pdf
 uid: 952c1608-6389-a7f6-f9eb-d5481e03959a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

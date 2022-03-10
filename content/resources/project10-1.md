@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: project10.pdf
 uid: 0720767c-62da-85c1-a0ac-289e08b94bfe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

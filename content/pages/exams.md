@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 9de2f044-f1b8-3cdf-dc9e-5d882607fe1b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains practice exams from previous years, and the exam given during the Spring 2006 semester. Quiz 2 Spring 2003 was held at the same point in the 2003 semester as was the single quiz in 2004. Students had access to these practice exams when preparing for their own quiz.

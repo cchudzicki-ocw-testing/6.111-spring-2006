@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix3.pdf
 uid: 396dd667-fab3-daf9-1676-d358309bc227
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

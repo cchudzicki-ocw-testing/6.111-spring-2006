@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l5_seql_verilog.pdf
 uid: 09793dcc-124f-0226-e93e-b01591762630
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix13.pdf
 uid: 340b4daa-a8ef-4430-6ffa-a09e576bc9f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

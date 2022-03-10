@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: relatedresource.pdf
 uid: ebcc5f1a-b76a-0f6f-0e69-cb21de1b0952
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l12_fpgas.pdf
 uid: 98b55116-32ab-fbaa-4af8-33cef72e7416
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

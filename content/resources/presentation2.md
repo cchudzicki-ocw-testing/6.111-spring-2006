@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation2.pdf
 uid: dfdfa01b-0351-957e-823c-6c0cda3df46a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

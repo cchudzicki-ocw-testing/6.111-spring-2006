@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix11.pdf
 uid: 2eca792b-1d34-95e9-785d-28b5d5f10c68
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

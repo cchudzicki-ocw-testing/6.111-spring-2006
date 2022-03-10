@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l4_seql_blocks.pdf
 uid: 7b4d1c01-7578-e7e2-0e05-0168444382e8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

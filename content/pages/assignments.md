@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 90322a5b-1820-f46e-c7ab-c74d3d687c44
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the three problem sets, along with solutions, assigned during the term.

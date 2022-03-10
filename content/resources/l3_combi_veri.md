@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l3_combi_veri.pdf
 uid: c980dc16-3d6d-7e97-39a7-6e002c6ce861
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

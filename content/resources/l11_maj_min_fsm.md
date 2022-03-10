@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: l11_maj_min_fsm.pdf
 uid: 068c445a-4f08-f5fb-9a81-34062b209a2a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

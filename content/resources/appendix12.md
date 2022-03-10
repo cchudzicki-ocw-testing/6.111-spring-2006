@@ -19,4 +19,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix12.pdf
 uid: edc047aa-249c-020e-34b3-79aa03af1476
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cim.pdf
 uid: 27202dd8-5824-273a-6314-8e14374fba9d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

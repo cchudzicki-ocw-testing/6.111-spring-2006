@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec12.pdf
 uid: b4985149-b034-5dd2-ea9d-79e6b5ee6ba8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

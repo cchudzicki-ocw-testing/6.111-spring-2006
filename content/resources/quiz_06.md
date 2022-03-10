@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: quiz_06.pdf
 uid: 7628894e-09a0-7b49-163c-d07d90a0ae45
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

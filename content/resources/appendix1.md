@@ -21,4 +21,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: appendix1.pdf
 uid: 52c12e2e-fbc7-993d-0ad4-59d216caa4d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

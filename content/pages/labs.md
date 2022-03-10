@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: b07a1209-db13-f696-9f99-98a17dc3f627
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains laboratory assignments and supporting documentation. For copyright reasons, links to device datasheets are not provided here: they can be downloaded from their respective manufacturers' websites. Source files provided for each lab include template Verilog(R) files (which the students modify to complete the assignment), and I/O pin constraints (in .ucf format, for use with Xilinx ISE(R) Foundation(TM) software) for the 6.111 labkit.

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation15.pdf
 uid: 689141b2-3929-f6ca-86db-ebc290a23b39
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

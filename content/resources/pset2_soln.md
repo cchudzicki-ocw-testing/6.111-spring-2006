@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset2_soln.pdf
 uid: 126b2863-4679-b148-f32e-cfba4249e066
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -19,4 +19,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: presentation12.pdf
 uid: 37df00df-b072-cab7-bc93-430966e29bcd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
