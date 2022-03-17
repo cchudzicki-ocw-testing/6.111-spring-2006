@@ -35,3 +35,8 @@ leftnav:
   name: Lab Kit
   url: /pages/lab-kit
   weight: 90
+- identifier: 154db192-2574-3f27-fc7e-20328846dbe3
+  name: Example Projects
+  parent: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
+  url: /pages/projects/group1
+  weight: 10
