@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on system integration issues and major/minor finite state
   machines.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/068c445a4f08f5fb9a8134062b209a2a_l11_maj_min_fsm.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/068c445a4f08f5fb9a8134062b209a2a_l11_maj_min_fsm.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on system integration issues and major/minor finite state machines.

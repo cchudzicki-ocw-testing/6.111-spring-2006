@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on counters, finite state machines, Verilog
   testbench, and memory tester.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/126b28634679b148f32ecfba4249e066_pset2_soln.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/126b28634679b148f32ecfba4249e066_pset2_soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Solutions to a problem set on counters, finite state machines, Verilog testbench, and memory tester.

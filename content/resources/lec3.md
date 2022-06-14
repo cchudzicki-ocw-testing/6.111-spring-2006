@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/65a101becabd787ab2a6514e967c300b_lec3.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/65a101becabd787ab2a6514e967c300b_lec3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

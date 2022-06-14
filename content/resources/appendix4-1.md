@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/e08de0b065064daaff912ca4bb405f72_appendix4.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/e08de0b065064daaff912ca4bb405f72_appendix4.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

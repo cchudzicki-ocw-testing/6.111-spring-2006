@@ -2,7 +2,7 @@
 content_type: resource
 description: Quiz on sequential building blocks and counters, carry skip adder, glitches
   in digital design, memory, and Verilog.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/7628894e09a07b49163cd07d90a0ae45_quiz_06.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/7628894e09a07b49163cd07d90a0ae45_quiz_06.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Quiz on sequential building blocks and counters, carry skip adder, glitches in digital design, memory, and Verilog.

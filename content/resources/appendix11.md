@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: project code for a final project by Michael
   Huhs and Sanjay Jhaveri. The goal of this final project is to implement a digital
   camera using a Xilinx Virtex II FPGA that is built into the 6.111 Labkit.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/2eca792b1d3495e9785d28b5d5f10c68_appendix11.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/2eca792b1d3495e9785d28b5d5f10c68_appendix11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -19,3 +19,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Example of student work: project code for a final project by Michael Huhs and Sanjay Jhaveri. The goal of this final project is to implement a digital camera using a Xilinx Virtex II FPGA that is built into the 6.111 Labkit.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to and overview of the course.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/317da3eef4612e543559758c871d25d8_l1_overview.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/317da3eef4612e543559758c871d25d8_l1_overview.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes with an introduction to and overview of the course.

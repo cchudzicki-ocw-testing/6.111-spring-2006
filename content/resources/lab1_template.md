@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Report template and checkoff sheet for Lab 1: Introduction to digital
   design.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-111-introductory-digital-systems-laboratory-spring-2006/ebed3c7e2f0a31b14ed56d0cd9a64400_lab1_template.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/ebed3c7e2f0a31b14ed56d0cd9a64400_lab1_template.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Report template and checkoff sheet for Lab 1: Introduction to digital design.
