@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on assigned projects and a selection
+  of presentations, final reports, and demonstration videos.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

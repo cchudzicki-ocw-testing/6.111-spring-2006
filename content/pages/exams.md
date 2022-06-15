@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains practice exams from previous years, and the exam
+  given during the Spring 2006 semester. Quiz 2 Spring 2003 was held at the same point
+  in the 2003 semester as was the single quiz in 2004. Students had access to these
+  practice exams when preparing for their own quiz.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

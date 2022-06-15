@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a link to documentation for the 6.111 FPGA lab
+  kit.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lab Kit

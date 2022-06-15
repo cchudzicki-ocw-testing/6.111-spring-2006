@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the three problem sets, along with solutions, assigned
+  during the term.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

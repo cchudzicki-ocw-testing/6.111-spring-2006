@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to resources related to Communication Intensive
+  in the Major (CI-M) requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

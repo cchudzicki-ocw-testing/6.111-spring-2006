@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides information on course prerequisites, recommended
+  books, conduct of the subject, activities, late penalties, collaboration, and component
+  pinouts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
