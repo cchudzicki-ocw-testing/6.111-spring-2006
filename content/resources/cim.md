@@ -5,6 +5,7 @@ description: Lecture handout with guidelines and instructions on writing lab rep
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/27202dd85824273a63148e14374fba9d_cim.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

@@ -8,6 +8,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/e9430e6
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
